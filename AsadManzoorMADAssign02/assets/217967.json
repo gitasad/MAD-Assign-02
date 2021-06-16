@@ -1,0 +1,231 @@
+{
+  "semesters": [
+    {
+      "id": "0",
+      "name": "Semester 1",
+      "courses": [
+        {
+          "id": "c1",
+          "name": "Fundamentals of Computer Programming",
+          "grade": "B+"
+        },
+        {
+          "id": "c2",
+          "name": "Islamic Studies",
+          "grade": "B"
+        },
+        {
+          "id": "c3",
+          "name": "Fundamentals of ICT",
+          "grade": "B+"
+        },
+        {
+          "id": "c4",
+          "name": "Calculus I",
+          "grade": "C+"
+        },
+        {
+          "id": "c5",
+          "name": "Discrete Mathematics",
+          "grade": "B"
+        },
+        {
+          "id": "c6",
+          "name": "Communication and Interpersonal Skills",
+          "grade": "B"
+        }
+      ]
+    },
+    {
+      "id": "1",
+      "name": "Semester 2",
+      "courses": [
+        {
+          "id": "c7",
+          "name": "Object Oriented Programming",
+          "grade": "B"
+        },
+        {
+          "id": "c8",
+          "name": "Introduction to Management",
+          "grade": "B"
+        },
+        {
+          "id": "c9",
+          "name": "Calculus II",
+          "grade": "B"
+        },
+        {
+          "id": "c10",
+          "name": "Digital Logic Design",
+          "grade": "C+"
+        },
+        {
+          "id": "c11",
+          "name": "Pakistan Studies",
+          "grade": "B+"
+        },
+        {
+          "id": "c12",
+          "name": "Applied Physics",
+          "grade": "C+"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Semester 3",
+      "courses": [
+        {
+          "id": "c13",
+          "name": "Linear Algebra",
+          "grade": "C+"
+        },
+        {
+          "id": "c14",
+          "name": "Data Structure and Algorithms",
+          "grade": "B"
+        },
+        {
+          "id": "c15",
+          "name": "Comp Organisation & Ass Lang",
+          "grade": "C+"
+        },
+        {
+          "id": "c16",
+          "name": "Database Systems",
+          "grade": "B"
+        },
+        {
+          "id": "c17",
+          "name": "Technical & Business Writing",
+          "grade": "C"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Semester 4",
+      "courses": [
+        {
+          "id": "c18",
+          "name": "Design and Analysis of Algorithms",
+          "grade": "B+"
+        },
+        {
+          "id": "c19",
+          "name": "Human Comp Interaction",
+          "grade": "B+"
+        },
+        {
+          "id": "c20",
+          "name": "Web Engineering",
+          "grade": "A"
+        },
+        {
+          "id": "c21",
+          "name": "Comp Arch & Org",
+          "grade": "B+"
+        },
+        {
+          "id": "c22",
+          "name": "Probability & Statistics",
+          "grade": "C"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Semester 5",
+      "courses": [
+        {
+          "id": "c23",
+          "name": "Advanced Programming",
+          "grade": "B+"
+        },
+        {
+          "id": "c24",
+          "name": "Operating Systems ",
+          "grade": "C+"
+        },
+        {
+          "id": "c25",
+          "name": "Computer Networks",
+          "grade": "B"
+        },
+        {
+          "id": "c26",
+          "name": "Psychology",
+          "grade": "C+"
+        },
+        {
+          "id": "c27",
+          "name": "Software Engineering",
+          "grade": "B"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "name": "Semester 6",
+      "courses": [
+        {
+          "id": "c28",
+          "name": "Theo Of Automata & Formal Lang",
+          "grade": "B"
+        },
+        {
+          "id": "c29",
+          "name": "Artificial Intelligence",
+          "grade": "B+"
+        },
+        {
+          "id": "c30",
+          "name": "Digital Image Processing ",
+          "grade": "B+"
+        },
+        {
+          "id": "c31",
+          "name": "Principles Of Accounting ",
+          "grade": "B"
+        },
+        {
+          "id": "c32",
+          "name": "Professional Ethics",
+          "grade": "B+"
+        },
+        {
+          "id": "c33",
+          "name": "Numerical Ana",
+          "grade": "B"
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "name": "Semester 7",
+      "courses": [
+        {
+          "id": "c34",
+          "name": "Compiler Construction",
+          "grade": "B"
+        },
+        {
+          "id": "c35",
+          "name": "Web Technologies-II",
+          "grade": "B"
+        },
+        {
+          "id": "c36",
+          "name": "Engineering Economics",
+          "grade": "B+"
+        },
+        {
+          "id": "c37",
+          "name": "Entrepreneurship",
+          "grade": "B+"
+        }
+      ]
+    }
+  ]
+}
